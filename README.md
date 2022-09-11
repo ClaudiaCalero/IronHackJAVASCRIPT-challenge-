@@ -20,13 +20,13 @@ Anything not listed in the instructions/notes is open for your own interpretatio
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-### Mocup
+### 🛸 Mocup 🛸
 ![image](https://user-images.githubusercontent.com/92159714/189495546-83fa34f3-2b04-44a1-85a7-d3b33220856c.png)
 -----------------------------------------------------------------------------------------------------------------------------------------
-### Calculator
-
+### 🧮 Calculator 🧮
+![calculadora](https://user-images.githubusercontent.com/92159714/189548635-e50df8fd-61c0-42ea-a24b-dfa9f960467f.jpeg)
 -----------------------------------------------------------------------------------------------------------------------------------------
-### Finish Work
+### 🏁 Finish Work 🏁
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,4 +39,3 @@ Anything not listed in the instructions/notes is open for your own interpretatio
 👀👀👀 github: https://github.com/ClaudiaCalero
 
 🛸📍Linkedin: https://www.linkedin.com/in/claudia-calero/
-
