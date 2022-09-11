@@ -27,6 +27,7 @@ Anything not listed in the instructions/notes is open for your own interpretatio
 ![calculadora](https://user-images.githubusercontent.com/92159714/189548635-e50df8fd-61c0-42ea-a24b-dfa9f960467f.jpeg)
 -----------------------------------------------------------------------------------------------------------------------------------------
 ### 🏁 Finish Work 🏁
+![calculadora](https://user-images.githubusercontent.com/92159714/189548635-e50df8fd-61c0-42ea-a24b-dfa9f960467f.jpeg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
